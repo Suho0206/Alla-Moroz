@@ -55,8 +55,8 @@
 .dark{
     --bgcolor-header:#FFD7CB;
     --color-header:#fff;
-    --bg-header-bottom:#FEF098;
-    --color-header-bottom:#FFDCF5;
+    --bg-header-bottom: #FFDCF5;
+    --color-header-bottom:#FEF098;
 }
 
 
